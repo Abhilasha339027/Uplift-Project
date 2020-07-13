@@ -8,6 +8,7 @@ Aim is to build a user friendly single page website for sorting dishes based on 
 Mentored by : 
   - Ankita Aditya
   - Anshul Rai
+  - Ayush
 ### Instruction 
  - Don't edit master branch directly , first create a branch with your name if code is working fine merge it with master branch
  - In index.html file write your html code
