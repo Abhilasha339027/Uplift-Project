@@ -44,6 +44,7 @@ body {
 --------------------------------------------------------------*/
 #footer {
   background: url("https://images.unsplash.com/photo-1558538337-aab544368de8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80") top center no-repeat;
+
   background-size: 2000px 300px;
   color: #fff;
   font-size: 14px;
